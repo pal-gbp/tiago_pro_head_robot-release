@@ -1,0 +1,12 @@
+Source: ros-humble-tiago-pro-head-controller-configuration
+Section: misc
+Priority: optional
+Maintainer: Aina Irisarri <aina.irisarri@pal-robotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake-auto, ros-humble-ament-lint-auto <!nocheck>, ros-humble-ament-lint-common <!nocheck>, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-tiago-pro-head-controller-configuration
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-joint-state-broadcaster, ros-humble-joint-trajectory-controller, ros-humble-launch, ros-humble-launch-pal, ros-humble-ros2controlcli, ros-humble-ros-workspace
+Description: The tiago_pro_head_controller_configuration package
