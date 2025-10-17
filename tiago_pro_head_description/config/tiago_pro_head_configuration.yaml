@@ -1,4 +1,0 @@
-camera_model:
-  description: 'Head camera model'
-  choices: ['realsense-d435', 'realsense-d455']
-  default_value: 'realsense-d435'
