@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="3">
   <name>tiago_pro_head_controller_configuration</name>
-  <version>1.6.1</version>
+  <version>1.7.0</version>
   <description>The tiago_pro_head_controller_configuration package</description>
   <maintainer email="aina.irisarri@pal-robotics.com">Aina Irisarri</maintainer>
   <license>Apache License 2.0</license>
